@@ -1,0 +1,12 @@
+body{
+    background-image: url(Light.jpg);
+    color: aliceblue;
+}
+
+body.table{
+    border-color: blue;
+    color: blue;
+}
+ body.a{
+    color: red;
+ }
